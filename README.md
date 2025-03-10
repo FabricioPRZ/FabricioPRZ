@@ -10,12 +10,6 @@
 
 <h4 align="center">Bienvenido a mi perfil.</h4>
 
-###
-
-<img src="https://raw.githubusercontent.com/FabricioPRZ/FabricioPRZ/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="left">
