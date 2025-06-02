@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">Hola 👋, soy Víctor Fabricio Pérez Constantino</h2>
-<h4 align="center">Ingeniero en Software · Desarrollador Fullstack · Apasionado por el diseño y la música</h4>
+<h4 align="center">Ingeniero en Software · Desarrollador Fullstack · Apasionado por el diseño y la tecnología</h4>
 
 <br clear="both">
 
@@ -18,16 +18,16 @@
 
 ### 🙋 Sobre mí
 
-Soy un ingeniero en software mexicano con un enfoque multidisciplinario que combina desarrollo web, sistemas embebidos e interfaces atractivas. Actualmente me desempeño como **frontend designer** en EST-Software, donde aplico principios de arquitectura limpia y hexagonal en Angular, React y tecnologías backend como Go, Node.js y Python.
+Soy un ingeniero en software mexicano con enfoque **fullstack**, apasionado por crear aplicaciones web funcionales, eficientes y con interfaces atractivas. Me gusta trabajar con arquitecturas limpias y escalables, integrar tecnologías modernas y aprender constantemente.
 
 🎯 **Especialidades**:
-- Desarrollo frontend moderno (Angular · React · Typescript)
-- Backend robusto y escalable (Go · Node · Python)
-- Comunicación en tiempo real (MQTT · WebSocket · RabbitMQ)
-- Integración de sensores con Arduino y Raspberry Pi
-- UI/UX y diseño visual (Figma · Photoshop · Canva)
+- Desarrollo frontend moderno (Angular · React · TypeScript)
+- Backend robusto y escalable (Go · Node.js · Python)
+- Comunicación en tiempo real (WebSocket · MQTT · RabbitMQ)
+- Sistemas embebidos con Arduino y Raspberry Pi
+- UI/UX y diseño visual (Figma · Canva · Photoshop)
 
-🎵 Además de programar, también escribo canciones, toco instrumentos y conecto la lógica del código con la creatividad de la música.
+🎵 En mi tiempo libre, disfruto escribir canciones, tocar instrumentos y dejar que la creatividad fluya también en la música.
 
 ---
 
@@ -85,4 +85,3 @@ Soy un ingeniero en software mexicano con un enfoque multidisciplinario que comb
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FabricioPRZ.FabricioPRZ&left_color=darkorange&right_color=darkorange&left_text=Views" />
-
