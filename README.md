@@ -23,8 +23,6 @@ Soy un ingeniero en software mexicano con enfoque **fullstack**, apasionado por 
 🎯 **Especialidades**:
 - Desarrollo frontend moderno (Angular · React · TypeScript)
 - Backend robusto y escalable (Go · Node.js · Python)
-- Comunicación en tiempo real (WebSocket · MQTT · RabbitMQ)
-- Sistemas embebidos con Arduino y Raspberry Pi
 - UI/UX y diseño visual (Figma · Canva · Photoshop)
 
 🎵 En mi tiempo libre, disfruto escribir canciones, tocar instrumentos y dejar que la creatividad fluya también en la música.
@@ -44,14 +42,10 @@ Soy un ingeniero en software mexicano con enfoque **fullstack**, apasionado por 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx" />
 </div>
 
 ---
@@ -72,7 +66,7 @@ Soy un ingeniero en software mexicano con enfoque **fullstack**, apasionado por 
 
 ---
 
-### 🎧 Mi música favorita últimamente
+### 🎧 Música que he escuchado últimamente
 
 <div align="center">
   <a href="https://open.spotify.com/user/31k3e5yx5dp2uy36u7yeioxnp6qi">
