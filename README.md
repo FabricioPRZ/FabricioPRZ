@@ -21,8 +21,8 @@
 Soy un ingeniero en software mexicano con enfoque **fullstack**, apasionado por crear aplicaciones web funcionales, eficientes y con interfaces atractivas. Me gusta trabajar con arquitecturas limpias y escalables, integrar tecnologías modernas y aprender constantemente.
 
 🎯 **Especialidades**:
-- Desarrollo frontend moderno (Angular · React · TypeScript)
-- Backend robusto y escalable (Go · Node.js · Python)
+- Desarrollo frontend moderno (Angular · React · HTML)
+- Backend robusto y escalable (Go · TypeScript · JS · Node.js · Python)
 - UI/UX y diseño visual (Figma · Canva · Photoshop)
 
 🎵 En mi tiempo libre, disfruto escribir canciones, tocar instrumentos y dejar que la creatividad fluya también en la música.
